@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75680c19.css",
+    "main.js": "/static/js/main.8bf1bffb.js",
+    "static/media/gph_logo.png": "/static/media/gph_logo.7b68e14bf28df70d1674.png",
+    "static/media/LaserLogo.png": "/static/media/LaserLogo.e3560943dd0c87cd7f69.png",
+    "static/media/capturaTurnero.jpg": "/static/media/capturaTurnero.187418c583b4c7f114dc.jpg",
+    "static/media/perfil.jpeg": "/static/media/perfil.a0a4317cce6faf8cc234.jpeg",
+    "static/media/llamador.jpg": "/static/media/llamador.c6421726f026d26c8d8f.jpg",
+    "index.html": "/index.html",
+    "main.75680c19.css.map": "/static/css/main.75680c19.css.map",
+    "main.8bf1bffb.js.map": "/static/js/main.8bf1bffb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75680c19.css",
+    "static/js/main.8bf1bffb.js"
+  ]
+}
