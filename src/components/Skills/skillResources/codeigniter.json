@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "Seguridad",
+        "descripcion": "Autenticación y autorización basada en roles, encriptación de datos sensibles, hashing de contraseñas, protección contra vulnerabilidades web (XSS, CSRF), gestión segura de cookies, y prevención de inyección SQL mediante Eloquent ORM."
+    },
+    {
+        "titulo": "MVC",
+        "descripcion": "Implementación de modelos con Eloquent ORM para la gestión de datos, controladores para la lógica de negocio, y vistas con Blade para la presentación, manteniendo un código limpio, modular y de fácil mantenimiento."
+    },
+    {
+        "titulo": "API RESTful",
+        "descripcion": "Desarrollo de servicios web RESTful para la comunicación con aplicaciones móviles, SPA y otros sistemas, utilizando autenticación por tokens, serialización de datos con JSON, y manejo de peticiones HTTP (GET, POST, PUT, DELETE)."
+    },
+    {
+        "titulo": "Testing",
+        "descripcion": "Creación de pruebas unitarias y de integración con PHPUnit, para garantizar el correcto funcionamiento de la aplicación, y la detección temprana de errores y vulnerabilidades."
+    },
+    {
+        "titulo": "Eloquent ORM",
+        "descripcion": "Utilización de Eloquent ORM para la gestión de relaciones entre modelos, consultas a la base de datos, creación de consultas personalizadas, y uso de scopes para reutilizar consultas."
+    },
+    {
+        "titulo": "Migraciones",
+        "descripcion": "Creación de migraciones con el generador de comandos Artisan, para la gestión de la estructura de la base de datos, y la creación y modificación de tablas, índices, claves foráneas, y campos."
+    }
+]

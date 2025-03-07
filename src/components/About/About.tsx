@@ -26,12 +26,15 @@ function About() {
                     el desarrollo de software.
                 </p>
             </div>
-            <div className="flex items-center justify-center">
+            <div className="relative flex items-center justify-center">
+             <div className="w-80 relative">
                 <img
                     src="/img/esteban_garcia.jpg"
                     alt="Esteban García"
-                    className="w-80 object-cover rounded-full"
+                    className="object-cover rounded-full transition-opacity duration-300"
                 />
+                <div className="absolute h-100 inset-0 bg-blue-300 opacity-50 transition-opacity duration-300 hover:opacity-0 rounded-full"></div>
+             </div>
             </div>
         </div>
     );

@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "Seguridad",
+        "descripcion": "Implementación de medidas de seguridad para proteger la integridad y confidencialidad de los datos, y prevenir vulnerabilidades web (XSS, CSRF), inyección SQL, y otros ataques comunes."
+    },
+    {
+        "titulo": "Módulos",
+        "descripcion": "Desarrollo e integración de módulos personalizados para ampliar la funcionalidad de Magento, y adaptar la plataforma a las necesidades específicas del negocio."
+    },
+    {
+        "titulo": "Temas",
+        "descripcion": "Creación y personalización de temas responsivos para Magento, utilizando HTML, CSS, y JavaScript, para mejorar la experiencia de usuario y la conversión de ventas."
+    },
+    {
+        "titulo": "API REST",
+        "descripcion": "Desarrollo de servicios web RESTful para la comunicación con aplicaciones móviles, sistemas externos, y otros servicios, utilizando autenticación por tokens, serialización de datos con JSON, y manejo de peticiones HTTP (GET, POST, PUT, DELETE)."
+    },
+    {
+        "titulo": "Optimización",
+        "descripcion": "Optimización del rendimiento de Magento mediante técnicas de caché, compresión de recursos, minimización de solicitudes HTTP, y otras estrategias para reducir los tiempos de carga y mejorar la experiencia de usuario."
+    },
+    {
+        "titulo": "Migración",
+        "descripcion": "Migración de tiendas online a Magento 1 o Magento 2, incluyendo la transferencia de datos, configuración de módulos y temas, y pruebas de funcionalidad para garantizar una transición exitosa."
+    }
+]

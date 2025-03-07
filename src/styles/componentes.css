@@ -1,0 +1,68 @@
+@layer componentes {
+    body {
+        @apply overflow-x-hidden;
+    }
+
+    .skillsSection > *:nth-child(2n) {
+        @apply mt-[80px] mb-[-20px]
+    }
+
+    .skillsSection > .toast > .toast-title {
+        @apply absolute rounded top-[-30px] right-10 justify-end
+    }
+
+    .skillsSection > .toast {
+        background-position: center, 50%, 50%;
+        background-size: cover;
+        @apply relative z-0 rounded before:content-['']
+        before:absolute before:top-0 before:bottom-0 before:-z-10
+        p-6 h-fit
+        before:bg-gradient-to-b before:from-gray-700
+    }
+
+    .skillsSection > *:nth-child(odd) {
+        @apply before:right-0
+        before:-left-[100vw];
+    }
+
+    .skillsSection > *:nth-child(even) {
+        @apply before:left-0
+        before:-right-[100vw];
+    }
+
+    /*.skillsSection > .toast-laravel {*/
+    /*    background-image: url('./../assets/svg/laravel.svg');*/
+    /*}*/
+
+    /*.skillsSection > .toast-codeigniter {*/
+    /*    background-image: url('./../assets/svg/codeigniter.svg');*/
+    /*}*/
+
+    /*.skillsSection > .toast-magento {*/
+    /*    background-image: url('./../assets/svg/magento.svg');*/
+    /*}*/
+
+    /*.skillsSection > .toast-nodejs {*/
+    /*    background-image: url('./../assets/svg/nodejs.svg');*/
+    /*}*/
+
+    /*.skillsSection > .toast-java {*/
+    /*    background-image: url('./../assets/svg/java.svg');*/
+    /*}*/
+
+    .toastElement {
+        interpolate-size: allow-keywords;
+        overflow: hidden;
+        height: 40px;
+        transition: all .5s;
+    }
+
+    .toastElement:hover {
+        -webkit-box-shadow: 0px 0px 50px 9px rgba(255,255,255,1) !important;
+        -moz-box-shadow: 0px 0px 50px 9px rgba(255,255,255,1) !important;
+        box-shadow: 0px 0px 50px 9px rgba(255,255,255,1) !important;
+        height: auto;
+    }
+
+}
+

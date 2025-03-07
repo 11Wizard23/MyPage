@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "Comandos de Terminal",
+        "descripcion": "Uso de comandos de terminal para la gestión de archivos y directorios, la instalación de paquetes, la configuración del sistema, la monitorización de procesos, y otras tareas administrativas en sistemas Linux."
+    },
+    {
+        "titulo": "Shell Scripting",
+        "descripcion": "Creación de scripts de shell para la automatización de tareas, la programación de flujos de trabajo, la gestión de procesos, la configuración del sistema, y otras operaciones en sistemas Linux."
+    },
+    {
+        "titulo": "Administración de Usuarios y Grupos",
+        "descripcion": "Gestión de usuarios y grupos en sistemas Linux, creación de cuentas de usuario, asignación de permisos y privilegios, configuración de políticas de seguridad, y otras tareas de administración de usuarios."
+    },
+    {
+        "titulo": "Configuración de Red",
+        "descripcion": "Configuración de la red en sistemas Linux, asignación de direcciones IP, configuración de interfaces de red, enrutamiento de paquetes, resolución de nombres de dominio, y otras operaciones de configuración de red."
+    },
+    {
+        "titulo": "Seguridad del Sistema",
+        "descripcion": "Implementación de medidas de seguridad en sistemas Linux, configuración de cortafuegos, detección de intrusiones, cifrado de datos, gestión de certificados SSL/TLS, y otras prácticas de seguridad para proteger el sistema y los datos."
+    },
+    {
+        "titulo": "Gestión de Paquetes",
+        "descripcion": "Instalación, actualización y eliminación de paquetes de software en sistemas Linux, uso de gestores de paquetes como APT, YUM, DNF, y otros, para la gestión de dependencias y la instalación de aplicaciones."
+    }
+]

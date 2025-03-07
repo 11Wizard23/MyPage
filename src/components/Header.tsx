@@ -2,7 +2,7 @@ function Header() {
     return (
         <header className="bg-gray-800 text-white p-5 shadow-sm shadow-white">
             <div className="container mx-auto flex justify-evenly items-center">
-                <div className="text-2xl font-bold">
+                <div className="text-2xl font-bold text-nowrap">
                     {"<"} Esteban {"/"} García {">"}
                 </div>
 

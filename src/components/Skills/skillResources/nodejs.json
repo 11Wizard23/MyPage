@@ -1,0 +1,27 @@
+[
+    {
+        "titulo": "TypeScript",
+        "descripcion": "Uso de TypeScript para agregar tipado estático a JavaScript, facilitando el desarrollo de aplicaciones escalables y mantenibles."
+    },
+    {
+        "titulo": "Express",
+        "descripcion": "Creación de servidores web con Express, un framework minimalista y flexible que permite construir aplicaciones web y APIs de forma rápida y sencilla."
+    },
+    {
+        "titulo": "Vite",
+        "descripcion": "Configuración de proyectos con Vite, un bundler y servidor de desarrollo ultrarrápido que mejora la productividad del desarrollador y reduce los tiempos de compilación."
+    },
+    {
+        "titulo": "React",
+        "descripcion": "Integración de React en aplicaciones Node.js para construir interfaces de usuario interactivas y reactivas, utilizando componentes reutilizables y un enfoque basado en el estado."
+    },
+    {
+        "titulo": "Puppeteer",
+        "descripcion": "Automatización de tareas en la web con Puppeteer, una librería de Node.js que permite controlar un navegador headless para realizar pruebas, extracción de datos, y otras operaciones."
+    },
+    {
+        "titulo": "Testing",
+        "descripcion": "Implementación de pruebas unitarias y de integración con Jest y Testing Library, para garantizar el correcto funcionamiento de la aplicación, detectar errores y vulnerabilidades, y facilitar la refactorización del código."
+    }
+]
+
