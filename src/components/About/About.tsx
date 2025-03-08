@@ -16,14 +16,10 @@ function About() {
                 </h2>
 
                 <p className="text-base md:text-lg lg:text-xl text-gray-300 max-w-2xl leading-relaxed mb-6">
-                    Apasionado por crear soluciones tecnológicas innovadoras y escalables.
-                    Combino creatividad y experiencia técnica para transformar ideas en
-                    productos digitales excepcionales.
+                    Creo soluciones tecnológicas innovadoras y escalables con pasión. Fusiono creatividad y experticia técnica para convertir conceptos en productos digitales sobresalientes.
                 </p>
                 <p className="text-base md:text-lg lg:text-xl text-gray-300 max-w-2xl leading-relaxed mb-6">
-                    Me destaco por transformar ideas complejas en código limpio y eficiente,
-                    siempre buscando aprender nuevas tecnologías y metodologías para mejorar
-                    el desarrollo de software.
+                    Transformo ideas complejas en código limpio y eficiente. Continuamente adopto nuevas tecnologías y metodologías para perfeccionar el desarrollo de software.
                 </p>
             </div>
             <div className="relative flex items-center justify-center">
