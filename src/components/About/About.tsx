@@ -1,4 +1,4 @@
-
+import imagenPersonal from './../../assets/img/esteban_garcia.jpg'
 function About() {
     return (
         <div id="about" className="grid md:grid-cols-2 grid-cols-1 gap-4">
@@ -29,7 +29,7 @@ function About() {
             <div className="relative flex items-center justify-center">
              <div className="w-80 relative">
                 <img
-                    src="/img/esteban_garcia.jpg"
+                    src={imagenPersonal}
                     alt="Esteban García"
                     className="object-cover rounded-full transition-opacity duration-300"
                 />

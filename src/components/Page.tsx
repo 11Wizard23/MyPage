@@ -1,8 +1,9 @@
 import Header from './Header'
 import About from "./About/About.tsx";
 import IconSkills from "./Skills/IconSkills.tsx";
-// import LaravelSection from "./Skills/LaravelSection.tsx";
 import SkillToastSection from "./Skills/SkillToastSection.tsx";
+import ImagenServerSide from './../assets/img/png/server_side.png'
+
 function Page() {
     return (
         <div className="bg-gray-800 text-white">
@@ -10,7 +11,7 @@ function Page() {
             <main className="p-4 md:p-8 lg:p-12 xl:p-16 mx-auto max-w-7xl">
                 <img
                     style={{position: "fixed", right: -10, top: 70, boxShadow: "0px 0px 20px 3px rgba(255,255,255,1)"}}
-                    src="/img/server_side.png"
+                    src={ImagenServerSide}
                     alt="Server Side Rendering"
                     className="object-cover rounded-2xl transition-opacity duration-300"
                 />
@@ -23,8 +24,6 @@ function Page() {
                     <SkillToastSection tittle={"NodeJS"} toastColor={"#8bc64a"}/>
                     <SkillToastSection tittle={"Java"} toastColor={"#5281a0"}/>
                     <SkillToastSection tittle={"Linux"} toastColor={"#000"}/>
-
-
                 </div>
             </main>
         </div>
