@@ -6,7 +6,7 @@ function Header() {
                     {"<"} Esteban {"/"} García {">"}
                 </div>
 
-                <nav className="flex space-x-4">
+                <nav className="flex space-x-4 invisible md:visible">
                     <a href="#about" className="hover:text-blue-400">Sobre Mí</a>
                     <a href="#skills" className="hover:text-blue-400"> Habilidades </a>
                     <a href="#projects" className="hover:text-blue-400">Proyectos</a>
@@ -15,7 +15,7 @@ function Header() {
                 </nav>
 
                 <a
-                    href="https://github.com/tu-usuario"
+                    href="https://github.com/11Wizard23"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-400"

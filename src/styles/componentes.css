@@ -4,7 +4,7 @@
     }
 
     .skillsSection > *:nth-child(2n) {
-        @apply mt-[80px] mb-[-20px]
+        /*@apply mt-[80px] mb-[-20px]*/
     }
 
     .skillsSection > .toast > .toast-title {
