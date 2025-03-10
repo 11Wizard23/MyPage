@@ -29,7 +29,7 @@ function About() {
                     alt="Esteban García"
                     className="object-cover rounded-full transition-opacity duration-300"
                 />
-                <div className="absolute h-100 inset-0 bg-blue-300 opacity-50 transition-opacity duration-300 hover:opacity-0 rounded-full"></div>
+                {/*<div className="absolute h-100 inset-0 bg-blue-300 opacity-50 transition-opacity duration-300 hover:opacity-0 rounded-full"></div>*/}
              </div>
             </div>
         </div>
