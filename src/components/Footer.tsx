@@ -53,7 +53,7 @@ function Footer() {
                 </div>
 
                 <div className="mt-8 pt-6 border-t border-gray-100 text-center text-gray-500 text-sm">
-                    <p>&copy; 2025 Esteban García Cano. Todos los derechos reservados.</p>
+                    <p>&copy; 2025 Esteban David García Cano. Todos los derechos reservados.</p>
                 </div>
             </div>
         </footer>
