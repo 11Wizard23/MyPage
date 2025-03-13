@@ -24,7 +24,7 @@ function Head() {
             <link rel="icon" type="image/png" sizes="16x16" href={favivo16}/>
             <link rel="manifest" href={manifiest}/>
 
-            <link rel="canonical" href="https://esteban.etertec.co/"/>
+            <link rel="canonical" href="https://estebang.etertec.co/"/>
 
         </head>
     )
